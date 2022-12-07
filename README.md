@@ -2,7 +2,7 @@
 <Details>
 <Summary><h4>Kavin browser</h4></summary>
 
- apk<a href="https://github.com/KAVIYARASAN-1997/apks/blob/main/etc/base.apk"> Browser</a>
+ apk<a href=""> Browser</a>
 <Img src="https://github.com/KAVIYARASAN-1997/apks/blob/main/Snap/Screenshot_2022_1207_070606.jpg">
 Privacy Browser safe and secure your data's 
 <P>
